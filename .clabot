@@ -1,5 +1,5 @@
 {
-  "contributors": ["prshr"],
+  "contributors": "https://api.github.com/repos/prshr/test-clabot-config/contents/test-contributors.json",
   "label": "cla-signed-boom",
   "message": "Thank you for your pull request and welcome to our community. We require contributors to sign our Contributor License Agreement, and we don't seem to have you on file. In order for us to review and merge your code, please contact @ColinEberhardt to find out how to get yourself added."
 }
